@@ -1,0 +1,7 @@
+本地socket的使用
+socketpair()
+
+struct cmsghdr
+struct cmsghdr
+struct iovec
+

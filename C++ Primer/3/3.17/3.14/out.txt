@@ -1,0 +1,18 @@
+INCLUDE    IOSTREAM    INCLUDE    VECTOR    INCLUDE    FSTREAM    INT    MAIN    
+VOID    STD    IFSTREAM    IFS    IN    TXT    STD    VECTOR    
+INT    VEC    INT    INT    VAL    WHILE    IFS    VAL    
+STD    COUT    VAL    VEC    INT    PUSH    BACK    VAL    
+STD    COUT    STD    ENDL    FOR    STD    VECTOR    INT    
+ITERATOR    ITER    LEFT    VEC    INT    BEGIN    ITER    LEFT    
+VEC    INT    END    ITER    LEFT    IF    ITER    LEFT    
+VEC    INT    END    STD    COUT    ITER    LEFT    ITER    
+LEFT    STD    ENDL    ELSE    STD    COUT    THE    LAST    
+ONE    IS    NOT    BEEN    ADDED    STD    ENDL    AND    
+THE    LAST    ONE    IS    ITER    LEFT    STD    ENDL    
+STD    COUT    STD    ENDL    FOR    STD    VECTOR    INT    
+ITERATOR    ITER    RIGHT    VEC    INT    END    ITER    LEFT    
+VEC    INT    BEGIN    ITER    LEFT    ITER    RIGHT    ITER    
+LEFT    ITER    RIGHT    IF    ITER    LEFT    ITER    RIGHT    
+STD    COUT    THE    MIDDLE    ELEMENT    IS    ITER    LEFT    
+STD    ENDL    ELSE    STD    COUT    ITER    LEFT    ITER    
+RIGHT    STD    ENDL    RETURN    
